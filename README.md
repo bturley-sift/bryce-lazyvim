@@ -6,23 +6,18 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 From Mason, it's a good idea to install:
 ```
-    ◍ bash-language-server
-    ◍ buf
+    ◍ bash-language-server bashls
+    ◍ buf buf_ls
     ◍ codelldb
-    ◍ debugpy
-    ◍ delve
-    ◍ flake8
     ◍ gofumpt
     ◍ goimports
     ◍ golangci-lint
     ◍ gopls
-    ◍ java-debug-adapter
-    ◍ java-test
     ◍ jdtls
-    ◍ lua-language-server
+    ◍ lua-language-server lua_ls
     ◍ pyright
     ◍ ruff
-    ◍ rust-analyzer
+    ◍ rust-analyzer rust_analyzer
     ◍ shellcheck
     ◍ shfmt
     ◍ stylua
